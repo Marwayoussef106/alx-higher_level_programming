@@ -74,4 +74,4 @@ git clone https://github.com/Abeer-M-Ali/[Github project directory]
 
 ## Author :black_nib:
 
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](YoussfMarwa) | 
+- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) | 
