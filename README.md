@@ -11,8 +11,6 @@ A high-level language is a programming language designed to simplify computer pr
 
 * [About](#about)
 * [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
 * [Projects](#projects)
 * [Author](#author)
 
@@ -32,19 +30,8 @@ This repository contains projects on higher-level programming including projects
 * NodeJS
 * All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
 
-## Installation
 
-In your terminal, git clone the directory with the following command:
 
-```sh
-git clone https://github.com/Abeer-M-Ali/[Github project directory]
-```
-
-## Usage
-
-```sh
-./[executable file] [optional arguments]
-```
 
 ## Projects
 
