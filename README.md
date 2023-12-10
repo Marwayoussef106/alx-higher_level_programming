@@ -30,7 +30,6 @@ This repository contains projects on higher-level programming including projects
 * NodeJS
 * All programs were run on a Vagrant(ubuntu/trusty64) (Virtualbox) environment
 
-
 ## Projects
 
 1. [0x00-python-hello_world](./0x00-python-hello_world)
@@ -59,4 +58,4 @@ This repository contains projects on higher-level programming including projects
 
 ## Author :black_nib:
 
-`- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) | 
+-
