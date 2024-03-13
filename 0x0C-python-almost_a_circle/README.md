@@ -102,8 +102,3 @@ Represents a square. Inherits from `Rectangle` with:
   * `**kwargs` is expected to be a double pointer to a dictoinary of new key/value attributes to update the `Square` with.
   * `**kwargs` is skipped if `*args` exists.
 * Public method `def to_dictionary(self):` that returns the dictionary representation of a `Square`.
-
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |

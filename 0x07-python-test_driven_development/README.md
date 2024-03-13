@@ -83,7 +83,3 @@ Prototypes for functions written in this project:
 
 * **8. CPython #3: Python Strings**
   * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
-
-## Author :black_nib:
-
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) | 
