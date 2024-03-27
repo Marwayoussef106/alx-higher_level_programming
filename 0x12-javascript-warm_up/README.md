@@ -24,8 +24,3 @@ Files | Description
 [101-call_me_moby.js](./101-call_me_moby.js) | JS function that executes x times a function
 [102-add_me_maybe.js](./102-add_me_maybe.js) | JS function that increments and calls a function
 [103-object_fct.js](./103-object_fct.js) | JS script that adds a new function incr that increments the integer value of the object myObject
-
-## Author :black_nib:
-
--
-- [Marwa Youssef](https://github.com/Marwayoussef106) | [Linkedin](https://www.linkedin.com/in/marwa-adel-38b621135/) | [Twitter](https://twitter.com/YoussfMarwa) |
